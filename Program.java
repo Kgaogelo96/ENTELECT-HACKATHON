@@ -55,7 +55,7 @@ class Deadzone {
 class Program {
 
 
-
+    public static void main(String[] args) {
         int zooX=0, zooY=0, zooZ=0; 
         int droneX=0, droneY=0, droneZ=0;  
         int maxDistance=0;    
